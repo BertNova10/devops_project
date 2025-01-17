@@ -4,7 +4,7 @@ body {
   font-family: Arial, sans-serif;
   background: linear-gradient(135deg, #ff7eb3, #ff758c, #ffca7b, #8fd3f4);
   background-size: 400% 400%;
-  animation: gradientAnimation 15s ease infinite;
+  animation: gradientAnimation 10s ease infinite;
   color: #333;
 }
 
